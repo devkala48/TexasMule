@@ -15,6 +15,7 @@ public class TexasMule {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		TexasMule result = new TexasMule();
+//		System.out.println("your result = " + result);
 		//hello
 	}
 
